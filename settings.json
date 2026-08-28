@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "STEVE2",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "STEVE2",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "TH3JAS.aternos.me",
+    "port": 12934,
     "version": "",
     "try-creative": false
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "YourAuthPassword"
+      "password": "2206"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "I like to play Minecraft!"
+        "I am TH3JAS_22's friend",
+        "I am a bot"
       ]
     },
     "chat-log": true,
@@ -71,9 +71,9 @@
     "pick-up-day": false,
     "place-night": false
   },
-  "discord": {
+  "Instagram ID->": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "TH3JAS_22",
     "events": {
       "connect": true,
       "disconnect": true,
@@ -82,6 +82,6 @@
   },
   "chat": {
     "respond": true,
-    "tpWhitelist": ["YourMinecraftUsername"]
+    "tpWhitelist": ["TH3JAS_22"]
   }
 }
